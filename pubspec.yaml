@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   pharaoh: ^0.0.6
+  shelf: ^1.4.1
   shelf_enforces_ssl: ^1.2.1
 
 
